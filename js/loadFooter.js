@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     <i class="fa fa-2x fa-map-marker-alt text-primary"></i>
                     <div class="ms-3">
                         <h5 class="text-white">Nuestra Oficina</h5>
-                        <p class="m-0">123 Calle, Ciudad, Ecuador</p>
+                        <p class="m-0">Calle Lorenzo de Garaicoa y Colombia, Guayaquil - Ecuador</p>
                     </div>
                 </div>
             </div>
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     <i class="fa fa-2x fa-envelope-open text-primary"></i>
                     <div class="ms-3">
                         <h5 class="text-white">Correo Electrónico</h5>
-                        <p class="m-0">info@example.com</p>
+                        <p class="m-0">manemoviafro@gmail.com</p>
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     <i class="fa fa-2x fa-phone-alt text-primary"></i>
                     <div class="ms-3">
                         <h5 class="text-white">Llámanos</h5>
-                        <p class="m-0">+593 123 4567</p>
+                        <p class="m-0">+593 999 391 945</p>
                     </div>
                 </div>
             </div>
